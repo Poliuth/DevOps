@@ -30,3 +30,7 @@ Sur votre machine utiliser les commandes suivantes :
 ```bash
 git clone https://github.com/Poliut/DevOps
 cd DevOps
+
+## LICENCE
+
+Ce projet est sous licence MIT
